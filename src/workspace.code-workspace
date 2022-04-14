@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\Desktop\\react-youtube-clone-master"
+	},
+	{
+		"path": "..\\..\\Desktop\\github"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "react-movie"
+  }
+}
